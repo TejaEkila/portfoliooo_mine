@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487296904576",
+    "project_id": "teja-com",
+    "storage_bucket": "teja-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487296904576:android:862b2a420b2f831a1c2565",
+        "android_client_info": {
+          "package_name": "teja.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGwrzlOrK51TUsc56p9HM4sbJNF-4nm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
